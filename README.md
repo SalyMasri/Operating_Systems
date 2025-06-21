@@ -21,8 +21,8 @@ Explored **Windows system internals** through **command-line tools and performan
 - **Tested network diagnostics** (`ping`, `tracert`) to observe packet routing
 - **Studied process prioritization** and its impact on system resources
 
-✔️ Successfully **monitored system behavior** under different workloads  
-✔️ **Compared system data reporting** across multiple tools  
+ Successfully **monitored system behavior** under different workloads  
+ **Compared system data reporting** across multiple tools  
 
 ---
 
@@ -34,8 +34,8 @@ Gained **practical experience** in **Linux system commands, scripting, and proce
 - **Analyzed process states and scheduling** in Linux
 - **Developed shell scripts** for automating file processing and sorting
 
-✔️ Built **custom shell scripts** for **automation tasks**  
-✔️ **Explored Linux system behavior** through **command-line experiments**  
+ Built **custom shell scripts** for **automation tasks**  
+ **Explored Linux system behavior** through **command-line experiments**  
 
 ---
 
@@ -47,8 +47,8 @@ Developed **a C++ program** to analyze **memory allocation limits** in different
 - **Examined virtual memory effects** using system monitors
 - **Measured performance impact** of **Large Address Aware (LAA) settings**
 
-✔️ Successfully **identified memory allocation constraints** under different conditions  
-✔️ **Documented system behavior** when handling memory-intensive applications  
+ Successfully **identified memory allocation constraints** under different conditions  
+ **Documented system behavior** when handling memory-intensive applications  
 
 ---
 
@@ -59,12 +59,11 @@ Implemented **multi-threaded applications** in Python, focusing on **synchroniza
 - **Implemented the Readers-Writers problem** using thread locks and semaphores
 - **Ensured proper thread synchronization** to prevent race conditions
 
-✔️ Developed **thread-safe applications** using proper synchronization mechanisms  
-✔️ **Tested concurrency issues** in a controlled OS environment  
+ Developed **thread-safe applications** using proper synchronization mechanisms  
+ **Tested concurrency issues** in a controlled OS environment  
 
 ---
 
 ## Conclusion
 Each project provided **hands-on experience in OS fundamentals**, including **system monitoring, process management, memory handling, and multi-threading**. The findings and implementations contribute to a **deeper understanding of OS behavior and optimization techniques**.
 
-For improvements or contributions, feel free to **open an issue** or **submit a pull request**.
